@@ -1,1 +1,1 @@
-Telegram bot that works on the principle of notes and reminds you of the data sent to it
+A Telegram bot that works on the 'Favorites' principle and, upon command, sends you a random entry
